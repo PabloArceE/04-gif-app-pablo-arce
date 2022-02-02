@@ -7,3 +7,9 @@ body{
     padding: 60px;
     background-color: black;
 }
+
+input {
+    color: black;
+    font-size: 1.3rem;
+    width: 99%;
+}
