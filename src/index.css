@@ -3,6 +3,11 @@
     color: blanchedalmond;
 }
 
+:root {
+    --animate-duration: 2s;
+    --animate-delay: 1s;
+  }
+
 body{
     padding: 60px;
     background-color: black;
@@ -29,9 +34,7 @@ input{
 }
 
 .card-item{
-    position: relative;
-    border: 1px solid rgba(120, 224, 238, 0.308);
-    border-radius: 10px;
+    position: relative;    
     overflow: hidden;
 }
 
