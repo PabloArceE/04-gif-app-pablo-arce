@@ -6,7 +6,7 @@ import GifGrid from './components/GifGrid';
 
 export const GifExpertApp = () => {
 
-    const [categories, setCategories] = useState(['Attack On Titan Funimation']);
+    const [categories, setCategories] = useState(['Dragon Ball Super Ultra Instinct']);
 
   return (
     <>
